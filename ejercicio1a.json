@@ -1,0 +1,23 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "",
+				"apellido": "Barbero",
+				"direccion": "Calle de los Andes, 46",
+				"_id": "1",
+				"_fechaingreso": "1/11/20120"
+			},
+			{
+				"nombre": "Moises Augusto",
+				"apellido": "Molina Orellana",
+				"direccion": "Calle Zeledon, Barrio Morazan, Cuyultitan, La Paz",
+				"telefono": "73252616",
+				"email": "moisesitore14@gmail.com",
+				"url": "moises.website.com",
+				"_id": "2",
+				"_fechaingreso": "9/4/2021"
+			}
+		]
+	}
+}

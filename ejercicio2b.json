@@ -1,0 +1,59 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Zacatecoluca",
+				"habitantes": "320,379",
+				"altura": "545 MSNM",
+				"moneda": {
+					"_simbolo": "$",
+					"__text": "Dolar"
+				},
+				"codigo_telefonico": "503",
+				"idiomas": {
+					"oficial": "Español",
+					"segundo": "No aplica",
+					"autoctono": "Náhuat"
+				},
+				"area_territorial": "1223.61 km²",
+				"_id": "2",
+				"_nombre": "La Paz"
+			},
+			{
+				"cabecera": "Sonsonate",
+				"habitantes": {
+					"_anio": "2014",
+					"__text": "71,541"
+				},
+				"altura": {
+					"_unidad": "km²",
+					"__text": "545"
+				},
+				"moneda": {
+					"_simbolo": "$",
+					"__text": "Dolar"
+				},
+				"codigo_telefonico": "503",
+				"idiomas": {
+					"oficial": "Español",
+					"segundo": "No aplica",
+					"autoctono": "Náhuat"
+				},
+				"area_territorial": {
+					"_unidad": "km²",
+					"__text": "232.53"
+				},
+				"_id": "3",
+				"_nombre": "Sonsonate"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

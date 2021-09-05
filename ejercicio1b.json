@@ -1,0 +1,42 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "",
+				"apellido": "Barbero",
+				"direccion": "Calle de los Andes, 46",
+				"_id": "1",
+				"_fechaingreso": "1/11/20120"
+			},
+			{
+				"nombre": "Moises Augusto",
+				"apellido": "Molina Orellana",
+				"direccion": "Calle Zeledon, Barrio Morazan, Cuyultitan, La Paz",
+				"telefono": {
+					"_area": "503",
+					"__text": "73252616"
+				},
+				"email": "moisesitore14@gmail.com",
+				"url": "moises.website.com",
+				"_id": "2",
+				"_fechaingreso": "9/4/2021"
+			},
+			{
+				"nombre": "Oscar Anthony",
+				"apellido": "Molina Orellana",
+				"direccion": "Calle Zeledon, Barrio Morazan, Cuyultitan, La Paz",
+				"telefono": {
+					"_area": "503",
+					"__text": "77628986"
+				},
+				"email": "oscar.molina12@gmail.com",
+				"url": "oscar.website.com",
+				"dui": "123456789",
+				"isss": "9876543210",
+				"afp": "541239870",
+				"_id": "3",
+				"_fechaingreso": "9/4/2021"
+			}
+		]
+	}
+}

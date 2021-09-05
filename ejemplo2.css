@@ -1,0 +1,21 @@
+pais {
+    background-color: gray;
+}
+departamento {
+    background-color: aqua; 
+    display:block;
+} 
+cabecera {
+    color:black;
+    font-style: italic; 
+    display:inline;
+} 
+habitantes {
+    color: saddlebrown; 
+    display:inline;
+}
+altura {
+    color:seagreen;
+    font-size:1cm; 
+    display:inline;
+}

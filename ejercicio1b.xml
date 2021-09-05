@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+<fichero>
+    <ficha id="1" fechaingreso="1/11/20120">
+        <nombre/>
+        <apellido>Barbero</apellido>
+        <direccion>Calle de los Andes, 46 </direccion>
+    </ficha>
+    
+    <ficha id="2" fechaingreso="9/4/2021">
+      <nombre>Moises Augusto</nombre>
+      <apellido>Molina Orellana</apellido>
+      <direccion>Calle Zeledon, Barrio Morazan, Cuyultitan, La Paz</direccion>
+      <telefono area="503"> 73252616</telefono>
+      <email>moisesitore14@gmail.com</email>
+      <url>moises.website.com</url>
+    </ficha>
+    
+    <ficha id="3" fechaingreso="9/4/2021">
+      <nombre>Oscar Anthony</nombre>
+      <apellido>Molina Orellana</apellido>
+      <direccion>Calle Zeledon, Barrio Morazan, Cuyultitan, La Paz</direccion>
+      <telefono area="503"> 77628986</telefono>
+      <email>oscar.molina12@gmail.com</email>
+      <url>oscar.website.com</url>
+      <dui>123456789</dui>
+      <isss>9876543210</isss>
+      <afp>541239870</afp>
+    </ficha>
+
+</fichero>
